@@ -12,7 +12,7 @@ url: https://evanwill.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /rad_source
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/evanwill/rad_source/
 
 ##########
 # SITE SETTINGS
