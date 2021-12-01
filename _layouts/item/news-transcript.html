@@ -1,0 +1,32 @@
+---
+layout: default
+item-meta: true
+---
+<div class="container py-3">
+
+    {% include item/breadcrumbs.html %}
+
+    <div class="row">
+        <div class="col-md-4">
+
+            {% include item/metadata.html %}
+            
+        </div>
+        <div class="col-md-8">
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Transcript</h5>
+                    <p class="card-text">
+                        {% assign transcript = site.transcripts | where_exp: "p", "p.path contains page.transcript_filename" | first %}
+                        {{ transcript.content }}
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    {%- if site.data.theme.browse-buttons == true -%}
+        {% include item/browse-buttons.html %}
+    {%- endif -%}
+</div>

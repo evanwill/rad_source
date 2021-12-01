@@ -1,3 +1,6 @@
+---
+---
+
 \"The Last Rebellion-England at the Confessional.\" Daily Evening
 Bulletin, 17 Nov. 1865.\
 Nineteenth Century U.S. Newspapers,

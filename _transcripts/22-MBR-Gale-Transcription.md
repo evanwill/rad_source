@@ -1,3 +1,6 @@
+---
+---
+
 \"Negro Insurrection in Jamaica.\" Semi-Weekly Telegraph, 21 Dec. 1865.
 Nineteenth
 

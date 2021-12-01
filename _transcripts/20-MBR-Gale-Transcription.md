@@ -1,3 +1,6 @@
+---
+---
+
 \"The Jamaica Rebellion.\" Daily Evening Bulletin, 15 Dec. 1865.
 Nineteenth Century U.S.\
 Newspapers, link.gale.com/apps/doc/GT3002308817/NCNP?u=euge94201&sid\

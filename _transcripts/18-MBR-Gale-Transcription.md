@@ -1,3 +1,6 @@
+---
+---
+
 \"The Jamaica Insurrection.\" Milwaukee Daily Sentinel, 22 Nov. 1865.
 Nineteenth Century U.S.\
 Newspapers, link.gale.com/apps/doc/GT3002885965/NCNP?u=euge94201&sid\

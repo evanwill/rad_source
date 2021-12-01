@@ -42,18 +42,18 @@ organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwh
 metadata: Pilot-1-MBR-Gale
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
-# page_gen:
-#   - data: 'demo-metadata'
-#     template: 'item'
-#     name: 'objectid'
-#     dir: 'items'
-#     extension: 'html' 
-#     filter: 'objectid'  
+page_gen:
+  - data: 'Pilot-1-MBR-Gale'
+    template: 'news-transcript'
+    name: 'objectid'
+    dir: 'items'
+    extension: 'html' 
+    filter: 'objectid'  
 
 # set up collection for transcripts
 collections: 
-  transcripts: 
-    output: false
+  - transcripts
+
 
 ##########
 # GOOGLE SERVICES [optional!]

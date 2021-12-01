@@ -1,3 +1,6 @@
+---
+---
+
 Gordon, G. W. \"The Jamaica Massacres.\" Cleveland Daily Herald, 16 Dec.
 1865. Nineteenth\
 Century U.S. Newspapers, link.gale.com/apps/doc/GT3005183658/NCNP?u\

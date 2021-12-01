@@ -1,3 +1,6 @@
+---
+---
+
 \"The Insurrection in Jamaica.\" National Intelligencer, 11 Nov. 1865.
 Nineteenth Century U.S.\
 Newspapers, link.gale.com/apps/doc/GT3017892777/NCNP?u=euge94201&sid\

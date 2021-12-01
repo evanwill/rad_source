@@ -1,3 +1,6 @@
+---
+---
+
 \"The West India Negro Reblion-Ex-Governor Eyre Held for Trial.\"
 National Intelligencer, 23 May\
 1868. Nineteenth Century U.S. Newspapers,

@@ -1,3 +1,6 @@
+---
+---
+
 \"The Tenderness of John Bull.\" New Haven Palladium, 15 Nov. 1865.
 Nineteenth Century U.S.\
 Newspapers, link.gale.com/apps/doc/GT3007827358/NCNP?u=euge94201&sid=\

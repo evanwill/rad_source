@@ -1,3 +1,6 @@
+---
+---
+
 \"The Jamaica \'Insurrection\'-Report of the Governmental Commission.\"
 Daily Evening Bulletin, 2
 

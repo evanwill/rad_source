@@ -1,3 +1,6 @@
+---
+---
+
 \"The London Times makes the remark that the outcry in England against
 the authorities in\
 Jamaica \'will cause surprise in the island \'where their alleged

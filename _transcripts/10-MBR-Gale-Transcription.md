@@ -1,3 +1,6 @@
+---
+---
+
 N. Y. Tribune. \"The Disturbances in Jamaica.\" Liberator, 24 Nov. 1865,
 p. 187. Nineteenth\
 Century U.S. Newspapers, link.gale.com/apps/doc/GT3005897252/NCNP?u\

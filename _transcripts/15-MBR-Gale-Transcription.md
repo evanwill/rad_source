@@ -1,3 +1,6 @@
+---
+---
+
 \"The Negro Outbreak in Jamaica.\" Daily Evening Bulletin, 21 May 1866.
 Nineteenth Century\
 U.S. Newspapers,

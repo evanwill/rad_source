@@ -1,3 +1,6 @@
+---
+---
+
 \"The Riot in Jamaica.\" Daily Central City Register, 24 Nov. 1865.
 Nineteenth Century U.S.\
 Newspapers, link.gale.com/apps/doc/GT3016032449/NCNP?u=euge94201&sid\

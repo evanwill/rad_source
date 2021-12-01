@@ -1,3 +1,6 @@
+---
+---
+
 \"English Opinion of the Jamaica Brutalities.\" Daily Evening Bulletin,
 19 Jan. 1866. Nineteenth\
 Century U. S. Newspapers, link.gale.com/apps/doc/GT3002314518/NCNP?u\

@@ -1,3 +1,6 @@
+---
+---
+
 \"Telegraphic.\" Bangor Daily Whig and Courier, 11 Nov. 1865. Nineteenth
 Century U.S.\
 Newspapers, link.gale.com/apps/doc/GT3007261048/NCNP?u=euge94201&sid=\

@@ -1,3 +1,6 @@
+---
+---
+
 \"The Jamaica Massacre.\" New Hampshire Statesman, 27 Apr. 1866.
 Nineteenth Century U.S.\
 Newspapers, link.gale.com/apps/doc/GT3016218388/NCNP?u=euge94201&sid\

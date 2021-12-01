@@ -1,3 +1,6 @@
+---
+---
+
 \"The Negro Insurrection.\" Daily Evening Bulletin, 13 Nov. 1865.
 Nineteenth Century U.S.\
 Newspapers, link.gale.com/apps/doc/GT3012787512/NCNP?u=euge94201&sid=

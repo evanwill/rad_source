@@ -1,3 +1,6 @@
+---
+---
+
 \"The Very Latest.\" Natchez Daily Courier, 21 Nov. 1865. Nineteenth
 Century U.S. Newspapers,\
 link.gale.com/apps/doc/GT3017309440/NCNP?u=euge94201&sid=bookmark-NCNP&xid\

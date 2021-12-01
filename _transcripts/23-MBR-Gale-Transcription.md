@@ -1,3 +1,6 @@
+---
+---
+
 Gordon, G. W. \"Last Letter of the Jamaica Martyr.\" Liberator, 29 Dec.
 1865, p. 208. Nineteenth\
 Century U. S. Newspapers, link.gale.com/apps/doc/GT3005896055/NCNP?u\
