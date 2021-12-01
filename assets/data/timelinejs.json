@@ -1,0 +1,376 @@
+{
+    "title": {
+        "media": {
+          "url": "/rad_source/assets/img/collectionbuilder-logo.png",
+          "caption": null,
+          "credit": "The RAD Project"
+        },
+        "text": {
+          "headline": "The RAD Project Timeline",
+          "text": "The RAD Project focuses on the role of newspapers in transmitting, shaping, and building awareness of Black resistance movements from 1780-1870"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 1",
+          "link": "/rad_source/items/mbr_1.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "10",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 1"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 2",
+          "link": "/rad_source/items/mbr_2.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "11",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 2"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 3",
+          "link": "/rad_source/items/mbr_3.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "13",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 3"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 4",
+          "link": "/rad_source/items/mbr_4.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "15",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 4"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 5",
+          "link": "/rad_source/items/mbr_5.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "17",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 5"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 6",
+          "link": "/rad_source/items/mbr_6.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "17",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 6"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 7",
+          "link": "/rad_source/items/mbr_7.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "17",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 7"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 8",
+          "link": "/rad_source/items/mbr_8.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "18",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 8"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 9",
+          "link": "/rad_source/items/mbr_9.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "21",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 9"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 10",
+          "link": "/rad_source/items/mbr_10.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "24",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 10"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 11",
+          "link": "/rad_source/items/mbr_11.html"
+        },
+        "start_date": { 
+          
+          "month": "12",
+          "day": "19",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 11"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 12",
+          "link": "/rad_source/items/mbr_12.html"
+        },
+        "start_date": { 
+          
+          "month": "01",
+          "day": "04",
+          "year": "1866"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 12"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 13",
+          "link": "/rad_source/items/mbr_13.html"
+        },
+        "start_date": { 
+          
+          "month": "01",
+          "day": "19",
+          "year": "1866"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 13"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 14",
+          "link": "/rad_source/items/mbr_14.html"
+        },
+        "start_date": { 
+          
+          "month": "04",
+          "day": "27",
+          "year": "1866"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 14"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 15",
+          "link": "/rad_source/items/mbr_15.html"
+        },
+        "start_date": { 
+          
+          "month": "05",
+          "day": "21",
+          "year": "1866"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 15"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 16",
+          "link": "/rad_source/items/mbr_16.html"
+        },
+        "start_date": { 
+          
+          "month": "05",
+          "day": "23",
+          "year": "1868"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 16"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 17",
+          "link": "/rad_source/items/mbr_17.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "11",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 17"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 18",
+          "link": "/rad_source/items/mbr_18.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "22",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 18"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 19",
+          "link": "/rad_source/items/mbr_19.html"
+        },
+        "start_date": { 
+          
+          "month": "11",
+          "day": "24",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 19"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 20",
+          "link": "/rad_source/items/mbr_20.html"
+        },
+        "start_date": { 
+          
+          "month": "12",
+          "day": "15",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 20"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 21",
+          "link": "/rad_source/items/mbr_21.html"
+        },
+        "start_date": { 
+          
+          "month": "12",
+          "day": "16",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 21"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 22",
+          "link": "/rad_source/items/mbr_22.html"
+        },
+        "start_date": { 
+          
+          "month": "12",
+          "day": "21",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 22"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 23",
+          "link": "/rad_source/items/mbr_23.html"
+        },
+        "start_date": { 
+          
+          "month": "12",
+          "day": "29",
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 23"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Morant Bay Rebellion 24",
+          "link": "/rad_source/items/mbr_24.html"
+        },
+        "start_date": { 
+          
+          "month": "08",
+          "day": "02",
+          "year": "1866"
+        },
+        "text": {
+          "headline": "Morant Bay Rebellion 24"
+        }
+      }
+    ]
+}

@@ -1,0 +1,17 @@
+{ "subjects": [
+    { "subject" : "morant bay rebellion", "count" : 24, "link" : "https://evanwill.github.io/rad_source/browse.html#morant%20bay%20rebellion" },
+    { "subject" : "daily evening bulletin", "count" : 7, "link" : "https://evanwill.github.io/rad_source/browse.html#daily%20evening%20bulletin" },
+    { "subject" : "national intelligencer", "count" : 3, "link" : "https://evanwill.github.io/rad_source/browse.html#national%20intelligencer" },
+    { "subject" : "cleveland daily herald", "count" : 3, "link" : "https://evanwill.github.io/rad_source/browse.html#cleveland%20daily%20herald" },
+    { "subject" : "bangor daily whig and courier", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#bangor%20daily%20whig%20and%20courier" },
+    { "subject" : "new haven palladium", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#new%20haven%20palladium" },
+    { "subject" : "the north american", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#the%20north%20american" },
+    { "subject" : "natchez daily courier", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#natchez%20daily%20courier" },
+    { "subject" : "n. y. tribune", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#n.%20y.%20tribune" },
+    { "subject" : "boston daily advertiser", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#boston%20daily%20advertiser" },
+    { "subject" : "new hampshire statesman", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#new%20hampshire%20statesman" },
+    { "subject" : "milwaukee daily sentinel", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#milwaukee%20daily%20sentinel" },
+    { "subject" : "daily central city register", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#daily%20central%20city%20register" },
+    { "subject" : "semi-weekly telegraph", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#semi-weekly%20telegraph" },
+    { "subject" : "liberator", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#liberator" }
+]}

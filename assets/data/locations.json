@@ -1,0 +1,18 @@
+{ "locations": [
+    { "location" : "washington, dc", "count" : 3, "link" : "https://evanwill.github.io/rad_source/browse.html#washington,%20dc" },
+    { "location" : "san francisco", "count" : 3, "link" : "https://evanwill.github.io/rad_source/browse.html#san%20francisco" },
+    { "location" : "cleveland, oh", "count" : 2, "link" : "https://evanwill.github.io/rad_source/browse.html#cleveland,%20oh" },
+    { "location" : "boston, ma", "count" : 2, "link" : "https://evanwill.github.io/rad_source/browse.html#boston,%20ma" },
+    { "location" : "san francisco, ca,", "count" : 2, "link" : "https://evanwill.github.io/rad_source/browse.html#san%20francisco,%20ca," },
+    { "location" : "san francisco, ca", "count" : 2, "link" : "https://evanwill.github.io/rad_source/browse.html#san%20francisco,%20ca" },
+    { "location" : "bangor, me", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#bangor,%20me" },
+    { "location" : "new haven, ct", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#new%20haven,%20ct" },
+    { "location" : "philadelphia, pa", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#philadelphia,%20pa" },
+    { "location" : "natchez, ms", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#natchez,%20ms" },
+    { "location" : "concord, nh,", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#concord,%20nh," },
+    { "location" : "milwaukee, wi", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#milwaukee,%20wi" },
+    { "location" : "central city, co,", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#central%20city,%20co," },
+    { "location" : "cleveland, oh,", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#cleveland,%20oh," },
+    { "location" : "salt lake city, ut,", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#salt%20lake%20city,%20ut," },
+    { "location" : "boston, ma,", "count" : 1, "link" : "https://evanwill.github.io/rad_source/browse.html#boston,%20ma," }
+]}

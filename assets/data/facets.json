@@ -1,0 +1,20 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+            }
+        }
+        
+    ]
+}
