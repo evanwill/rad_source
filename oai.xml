@@ -9,7 +9,7 @@
         <oai:baseURL>http://gateway.institution.org/oai/evanwill.github.io/rad_source/oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
-        <oai:earliestDatestamp>2021-12-01</oai:earliestDatestamp>
+        <oai:earliestDatestamp>2021-12-06</oai:earliestDatestamp>
         <oai:deletedRecord>no</oai:deletedRecord>
         <oai:granularity>YYYY-MM-DD</oai:granularity>
     </Identify>
@@ -25,7 +25,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_1</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -44,7 +44,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_2</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -63,7 +63,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_3</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -82,7 +82,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_4</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -101,7 +101,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_5</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -120,7 +120,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_6</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -139,7 +139,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_7</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -158,7 +158,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_8</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -177,7 +177,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_9</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -196,7 +196,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_10</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -215,7 +215,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_11</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -234,7 +234,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_12</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -253,7 +253,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_13</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -272,7 +272,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_14</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -291,7 +291,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_15</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -310,7 +310,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_16</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -329,7 +329,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_17</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -348,7 +348,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_18</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -367,7 +367,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_19</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -386,7 +386,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_20</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -405,7 +405,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_21</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -424,7 +424,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_22</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -443,7 +443,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_23</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -462,7 +462,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:evanwill.github.io:rad_source/mbr_24</oai:identifier> 
-                <oai:datestamp>2021-12-01</oai:datestamp>
+                <oai:datestamp>2021-12-06</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
